@@ -1,0 +1,28 @@
+.menu {
+    width: 100%;
+    /* float: left; */
+    display: flex;
+    background-color: #58af9b;
+    padding: 10px 10%;
+    font-size: 20;
+}
+
+.menu li {
+    float: left;
+    list-style-type: none;
+}
+
+.menu li a {
+    color: black;
+    margin-right: 25px;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+.menu li a:hover {
+    color: #fff;
+}
+
+
+
+
